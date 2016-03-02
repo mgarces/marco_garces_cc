@@ -5,8 +5,8 @@ layout: default
 
 ### About me
 _Husband and proud father; sysadmin, geek, tinkerer, rugby fan, dreamer, coca-cola drinker, open-source passionate._
-{% include sharing.html %}
 
+<img align="right" src="/images/me.png" alt="Marco Garcês">
 Very soon in my life, I was interested in computer science and IT in general, and when I found GNU/Linux and Open Source (when I was a teenager), I was hooked for life. 
 Since then, I have been passionate about learning and improving my knowledge about open source operating systems, and all the software that surrounds it. I'm also a big supporter of open source projects, like WiKipedia, OpenStreetMaps or electronics platform Arduino.
 
@@ -15,6 +15,7 @@ I'm a **SYSADMIN** in my core, but I also love to code stuff to solve problems. 
 The datacenter is my happy place, and I live on the command line. I feel motivated has the projects in my life, get bigger and bigger, and I'm always ready for new challenges.
 
 On the last few years I become an expert on RedHat's technologies, and developed a love affair with sysmonitoring opensource systems like Nagios/Icinga. I also have a growing appetite for clustering and distributed computing, and high-availability technologies.
+{% include sharing.html %}
 
 
 ### Skills
