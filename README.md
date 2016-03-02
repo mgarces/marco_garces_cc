@@ -1,5 +1,3 @@
-This is as Jekyll theme built to make single page websites, articles, or literary masterpieces readable anywhere.
+This is the repository for my personal [landing page](https://marco.garces.cc).
 
-[Demo and Documentation](https://adueck.github.io/good-clean-read)
-
-Built on top of <a href="http://chibicode.github.io/solo">Solo</a>, by [Shu Uesugi](https://github.com/chibicode)
+Built on top of [Jekyll](https://jekyllrb.com/) for generating the site, and [Good Clean Read](https://github.com/adueck/good-clean-read) for theme.
