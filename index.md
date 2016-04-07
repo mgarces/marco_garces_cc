@@ -16,6 +16,8 @@ The datacenter is my happy place, and I live on the command line. I feel motivat
 
 On the last few years I became an expert on RedHat's technologies, and developed a love affair with sysmonitoring OpenSource systems like Nagios/Icinga. I also have a growing appetite for clustering and distributed computing, and high-availability technologies.
 
+Currently living in Maputo/Mozambique, working for the largest bank in Mozambique, BCI; Next month I will be moving to Cape Town/South Africa, and start working for the largest cloud provider in the world...
+
 ### SSH pub_key
 <blockquote><dont-break-out>
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDolvbEcFjSl8y3bBIX4qVr4QWa/Tx/BbJRedCfAUwsNWQHnvr7mchlGvm6IjXfqMtk35IxkQ9mI7FB1XJMdBWMlD5z4c/t3znf3hW/ZpsqaIDkiFn7I2LU1lUzgQbgVhNchq/Q3dhhp6vdNaLEVXjYOw6m8YJNg/Ymxlx1kqiA4wqIexdlH7NJjBz2qhBZOhwSnHwlVSQl+uhXef7n9He9mizJyaD71G4FzkvU7nxvyWcNYMYCf4RuwEKk2IkmbkMSYdtX5iZZ9sTOLYCLGqHFY0mAz9zfcXW3SG4brgtKgTm1MVtpvrH/EDsfjZGygRfv4Q21iCOMXwZVxswXULVZ marco at garces dot cc / mgarces at sysadmin dot pt
