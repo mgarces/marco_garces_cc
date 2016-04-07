@@ -10,7 +10,7 @@ _Husband and proud father; sysadmin, geek, tinkerer, rugby fan, dreamer, coca-co
 Very soon in my life, I was interested in computer science and IT in general, and when I found GNU/Linux and OpenSource (when I was a teenager), I was hooked for life. 
 Since then, I have been passionate about learning and improving my knowledge about OpenSource operating systems, and all the software that surrounds it. I'm also a big supporter of OpenSource projects, like WiKipedia, OpenStreetMaps or electronics platform Arduino.
 
-I'm a **SYSADMIN** in my core, but I also love to code stuff to solve problems. Hacking and tinkering is in my nature, and when I need to solve a challenge, I never give up!
+I'm a **SYSADMIN** at my core, but I also love to code stuff to solve problems. Hacking and tinkering is in my nature, and when I need to solve a challenge, I never give up!
 
 The datacenter is my happy place, and I live on the command line. I feel motivated has the projects in my life, get bigger and bigger, and I'm always ready for new challenges.
 
