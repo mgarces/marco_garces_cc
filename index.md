@@ -4,7 +4,7 @@ layout: default
 ## sysadmin by day, superhero by night[^1]
 
 ### About me
-_Husband and proud father; sysadmin, geek, tinkerer, rugby fan, dreamer, coca-cola drinker, OpenSource passionate._
+_Husband and proud father; sysadmin, geek, tinkerer, rugby fan, dreamer, coca-cola drinker, OpenSource passionate; friends with an international writer_
 
 <img align="right" src="/images/me.png" alt="Marco Garcês">
 Very soon in my life, I was interested in computer science and IT in general, and when I found GNU/Linux and OpenSource (when I was a teenager), I was hooked for life. 
