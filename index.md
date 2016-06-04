@@ -16,7 +16,7 @@ The datacenter is my happy place, and I live on the command line. I feel motivat
 
 On the last few years I became an expert on RedHat's technologies, and developed a love affair with sysmonitoring OpenSource systems like Nagios/Icinga. I also have a growing appetite for clustering and distributed computing, and high-availability technologies.
 
-Currently living in Maputo/Mozambique, working for the largest bank in Mozambique, BCI; Next month I will be moving to Cape Town/South Africa, and start working for the largest cloud provider in the world...
+Worked for the last four years in the banking industry in Mozambique, and I'm currently starting an amazing adventure as a Cloud Support Engineer III at Amazon Web Services in Cape Town/South Africa.
 
 ### SSH pub_key
 <blockquote><dont-break-out>
