@@ -12,7 +12,7 @@ Since then, I have been passionate about learning and improving my knowledge abo
 
 I'm a **SYSADMIN** at my core, but I also love to code stuff to solve problems. Hacking and tinkering is in my nature, and when I need to solve a challenge, I never give up!
 
-The datacenter is my happy place, and I live on the command line. I feel motivated has the projects in my life, get bigger and bigger, and I'm always ready for new challenges.
+The datacenter is my happy place, and I live on the command line. I feel motivated by the projects in my life, get bigger and bigger, and I'm always ready for new challenges.
 
 On the last few years I became an expert on RedHat's technologies, and developed a love affair with sysmonitoring OpenSource systems like Nagios/Icinga. I also have a growing appetite for clustering and distributed computing, and high-availability technologies.
 
