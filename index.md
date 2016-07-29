@@ -29,4 +29,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDolvbEcFjSl8y3bBIX4qVr4QWa/Tx/BbJRedCfAUws
 
 [^1]:Conditions may apply
 
-[^2]: Disclaimer: Any opinion, idea or text, is my responsability and not in any way affiliated to AWS.
+[^2]:Disclaimer: Any opinion, idea or text, is my responsability and not in any way affiliated to AWS.
