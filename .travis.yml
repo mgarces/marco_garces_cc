@@ -1,0 +1,25 @@
+language: ruby
+rvm:
+- 2.1
+before_script:
+- chmod +x ./script/cibuild
+script: "./script/cibuild"
+branches:
+  only:
+  - master
+  - "/pages-(.*)/"
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+deploy:
+  provider: s3
+  access_key_id: AKIAJ5YJU5SVTUWUM4EQ
+  secret_access_key:
+    secure: g2Ux/NhetelLHBLPjGKXWyRt+MzoZCUvnupYCcHOyPEkPcxVsV3W2H9iTEMmpTlKYnIEjVMFnVQtXPCal23id/Hsgia+5ZVVcYBPCq6P3yXyk+3u75rQZjcsDNXppT9/76CsNJbWGE6dhptSZnWL9piO/h9r4wxNegh/q/T6KKMPc1GDQeGlpcAMtxkjRHNVaoXLkthxJiPaFBDPnReiQ9U21UFlz2K++WCMvEfmjQTEDL8FwgjbGDl5+OtB5Z4zOfVmhNe831VLak+6k1g3bUvsr9jTkkXIsWvuoJYimVDYU08YGPM3TzMCyteeMinGT4F7faA+VyzsMLNHFFhzzaxZoUxkOUcvRcHoHWxqn6Wbv8eh3JJOJ+yF+LNs3IwervpylRaCzL41kvzRfXRibaWFZPNnp30bzaGTok9JS/ycymmdxGTUNko9E37J0JiVA2VQGNU2SNqWRPjbafPAl0pvTRfJlibTpAKC7Zw1qbrGxUn8qsTWEfKfEJSymzwaPNfB/JbkKwccc1yq4aLhlAPbJowRFQnegQALSP/iF9QA2w0EQU55YMr/sWz3KluKiYC6D9AQznv7rv7o0cvxQtBMClxMEess8KMivdm6VCx5R0O2wc5kUHY5BDNYN5K3Q/paoruRtPx8ZyYOH9X0pcuE2LG5B/rLUd95bjWUXK0=
+  bucket: "marco.garces.cc"
+  skip_cleanup: true
+  region: eu-west-1
+  local-dir: "_site/"
+  acl: public_read
+  on:
+    repo: mgarces/marco_garces_cc
