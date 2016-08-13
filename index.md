@@ -4,7 +4,7 @@ layout: default
 ## sysadmin by day, superhero by night[^1]
 
 ### About me
-_Husband and proud father; sysadmin, geek, tinkerer, rugby fan, dreamer, coca-cola drinker, OpenSource passionate; friends with an international writer_
+_Husband and proud father; sysadmin, geek, tinkerer, rugby fan, dreamer, beer enthusiast , OpenSource passionate; friends with an international writer :)_
 
 <img align="right" src="/images/me.png" alt="Marco Garcês">
 Very soon in my life, I was interested in computer science and IT in general, and when I found GNU/Linux and OpenSource (when I was a teenager), I was hooked for life. 
@@ -16,7 +16,7 @@ The datacenter is my happy place, and I live on the command line. I feel motivat
 
 On the last few years I became an expert on RedHat's technologies, and developed a love affair with sysmonitoring OpenSource systems like Nagios/Icinga. I also have a growing appetite for clustering and distributed computing, and high-availability technologies.
 
-Worked for the last four years in the banking industry in Mozambique, and I'm currently starting an amazing adventure as a Senior Cloud Support Engineer at Amazon Web Services[^2] in Cape Town/South Africa.
+Worked for the last four years in the banking industry in Mozambique, and I'm currently starting an amazing adventure as a Senior Cloud Support Engineer at [AWS](https://aws.amazon.com/)[^2] in Cape Town/South Africa.
 
 ### SSH pub_key
 <blockquote><dont-break-out>
@@ -29,4 +29,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDolvbEcFjSl8y3bBIX4qVr4QWa/Tx/BbJRedCfAUws
 
 [^1]:Conditions may apply
 
-[^2]:Disclaimer: Any opinion, idea or text, is my responsability and not in any way affiliated to AWS.
+[^2]:Disclaimer: Any opinion, idea or text on this site, are my own and not in any way affiliated to Amazon Web Services.
